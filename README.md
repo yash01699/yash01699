@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Yash! 👋
 
-<!--
-**yash01699/yash01699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer at Qualcomm | AI Enthusiast 🚀
 
-Here are some ideas to get you started:
+I am a passionate builder dedicated to creating technology that helps people. With a Master's in Computer Science from Queen Mary University of London, I love diving into new tech stacks and turning complex problems into cool, functional tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **What I'm up to:**
+- 🧠 Deep diving into Artificial Intelligence and Machine Learning.
+- 📱 Engineering robust CI/CD pipleines and AI systems at Qualcomm.
+- 📦 Currently contributing to open source projects
+- 🏗️ Building and shipping side projects, one day at a time.
+
+📫 **Let's Connect:**
+- [LinkedIn](https://www.linkedin.com/in/yashasvi-nancherla/)
+- [Email](yash01699@gmail.com)
+- [Resume](https://drive.google.com/file/d/1--_bseI3DBkSflNKiES5fCGAKf6BxE9f/view?usp=sharing)
+
+_"Building, one day at a time."_
