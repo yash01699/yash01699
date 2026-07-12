@@ -14,5 +14,3 @@ I am a passionate builder dedicated to creating technology that helps people. Wi
 - [LinkedIn](https://www.linkedin.com/in/yashasvi-nancherla/)
 - [Email](yash01699@gmail.com)
 - [Resume](https://drive.google.com/file/d/1--_bseI3DBkSflNKiES5fCGAKf6BxE9f/view?usp=sharing)
-
-_"Building, one day at a time."_
