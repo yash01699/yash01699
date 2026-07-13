@@ -2,7 +2,7 @@
 
 ### Software Engineer at Qualcomm | AI Enthusiast 🚀
 
-I am a passionate builder dedicated to creating technology that helps people. With a Master's in Computer Science from Queen Mary University of London, I love diving into new tech stacks and turning complex problems into cool, functional tools.
+I love building useful things in the pursuit of creating technology that actually helps people. With a Master's in Computer Science from Queen Mary University of London, I love diving into new tech stacks and turning complex problems into cool, functional tools.
 
 🛠️ **What I'm up to:**
 - 🧠 Deep diving into Artificial Intelligence and Machine Learning.
@@ -13,4 +13,4 @@ I am a passionate builder dedicated to creating technology that helps people. Wi
 📫 **Let's Connect:**
 - [LinkedIn](https://www.linkedin.com/in/yashasvi-nancherla/)
 - [Email](yash01699@gmail.com)
-- [Resume](https://drive.google.com/file/d/1--_bseI3DBkSflNKiES5fCGAKf6BxE9f/view?usp=sharing)
+- [**Resume**](https://drive.google.com/file/d/1--_bseI3DBkSflNKiES5fCGAKf6BxE9f/view?usp=sharing)
