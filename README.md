@@ -7,7 +7,7 @@ I love building useful things in the pursuit of creating technology that actuall
 🛠️ **What I'm up to:**
 - 🧠 Deep diving into Artificial Intelligence and Machine Learning.
 - 📱 Engineering robust CI/CD pipleines and AI systems at Qualcomm.
-- 📦 Currently contributing to open source projects (and maintaining few: https://github.com/qualcomm/commit-msg-check-action)
+- 📦 Currently contributing to open source projects (and maintaining a few: [qualcomm-commit-msg-check-action](https://github.com/qualcomm/commit-msg-check-action))
 - 🏗️ Building and shipping side projects, one day at a time.
 
 📫 **Let's Connect:**
