@@ -2,7 +2,7 @@
 
 ### Software Engineer at Qualcomm | MSc CS @ QMUL | AI Enthusiast 🚀
 
-I love building things, join me in the pursuit of creating technology that actually helps people. With a Master's in Computer Science from Queen Mary University of London, I love diving into new tech stacks and turning complex problems into cool, functional tools that can make a difference.
+I love building things and creating tools that actually helps people. With a Master's in Computer Science from Queen Mary University of London, I love diving into new tech stacks and turning complex problems into cool, functional solutions that can make a difference.
 
 🛠️ **What I'm up to:**
 - 🧠 Deep diving into Artificial Intelligence and Machine Learning.
